@@ -24,6 +24,7 @@ You may use LLMs to assist with code, but you're fully responsible for submissio
 
 **Requirements:**
 - Follow CONTRIBUTING.md and HACKING.md guidelines
+- Each commit assisted by an LLM needs a git-trailer `Assisted-by: LLM`
 - Keep changes concise and focused
 - Match existing formatting standards
 - Remove unnecessary comments and LLM metadata
