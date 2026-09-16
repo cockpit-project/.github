@@ -44,7 +44,7 @@ You may use LLMs to assist with code, but you're fully responsible for submissio
 **Final Discretion:**
 Maintainers may reject oversized, overly complex, or poorly structured PRs after correction attempts, regardless of LLM use.
 
-## The Golden Rule
+## Rule of Thumb
 
 "Do not prompt an LLM vaguely. Do not commit the LLM results unchanged. And do not submit them as-is."
 
